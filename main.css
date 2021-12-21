@@ -1,0 +1,31 @@
+/* Basic Styles */
+*{  margin: 0;  padding: 0;}
+
+body{  background-color: rgb(223, 232, 248);}
+.main {  width: 80%;  margin: auto;}
+/*Header Style */
+.header{  width: 100%;  height: auto;}.header > h2{  margin-top: 10px;  font-size: 40px;  font-family: Arial, Helvetica, sans-serif;  text-transform: uppercase;  font-weight: 400;  color: rgb(40, 62, 104);}
+.nav{  background-color: rgb(40, 62, 104);  width: 100%;  height: auto;}
+.header > ul{  list-style-type: none;}.header> ul > li{  display: inline-block;  word-spacing: 20px;  font-size: 18px;  padding: 20px;  }
+li >a{  text-decoration: none;  color: #fff;}
+/* Banner Image */
+.banner {  width: 100%;  height: auto; }
+/* Content style */
+h1{  font-size: 30px;  margin: 10px 0;}.content >p{  font-size: 1.2em;  line-height: 27px;}
+.content > p >img{  width: 19%;  height: 250px;  float: right;}
+/* Footer Style */
+
+.footer{background-color: rgb(40, 62, 104);margin-top: 30px;padding: 35px;font-size: 1.2em;color: #fff;}
+
+/* Title */
+
+.Title{  background-color: rgb(9, 23, 49);height: 200;padding: 50px;color: #fff;text-align: center;}
+
+.content > h2> img{  width: 250px;  height 300%;float: left;
+}
+
+.content > h2> img{
+  width: 250px;
+  height 300%;
+float: left;
+}
